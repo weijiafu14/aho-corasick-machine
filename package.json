@@ -1,0 +1,32 @@
+{
+  "name": "aho-corasick-machine",
+  "version": "1.0.0",
+  "description": "Aho-Corasick machine for matching.It can be used to be implemented to match strings",
+  "main": "acho-corasick-machine.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "dependencies": {
+    "binary-search-bounds": "~0.3.1"
+  },
+  "devDependencies": {
+    "tape": "~2.1.0",
+    "tap": "~0.4.4",
+    "array-trie": "0.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weijiafu14/aho-corasick-machine.git"
+  },
+  "keywords": [
+    "Aho-Corasick",
+    "machine",
+    "matching"
+  ],
+  "author": "wjf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weijiafu14/aho-corasick-machine/issues"
+  },
+  "homepage": "https://github.com/weijiafu14/aho-corasick-machine#readme"
+}
